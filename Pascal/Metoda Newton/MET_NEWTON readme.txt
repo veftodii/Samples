@@ -1,0 +1,1 @@
+Intervalul este mic, de exemplu [0.5, 1.5], eps = 0.001, n = 50
